@@ -1,7 +1,12 @@
 ---
 title: "page-template"
 author: "me"
+theme: quartz
+title-block-banner: true
+license: MIT
 ---
+
+# Install packages
 
 ## Quarto
 
