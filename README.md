@@ -1,3 +1,3 @@
-# page-template
+# in-class page
 
-The goal of page-template is to provide a quarto template for a simple github page
+This is an example web page built in class. 
